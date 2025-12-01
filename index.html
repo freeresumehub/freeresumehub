@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreeResumeHub - Free, ATS-friendly resume builder</title>
+    
+    <link rel="canonical" href="https://freeresumehub.com/" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .gradient-bg { background: linear-gradient(135deg, #0b76e0 0%, #0a66c2 100%); }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800 flex flex-col min-h-screen">
+
+    <nav class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <a href="https://freeresumehub.com/" class="flex items-center gap-2">
+                        <i class="fa-solid fa-file-contract text-blue-600 text-2xl"></i>
+                        <span class="font-bold text-xl tracking-tight text-gray-900">FreeResumeHub</span>
+                    </a>
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="https://freeresumehub.com/resume-templates-finder/" class="text-gray-600 hover:text-blue-600 font-medium">Templates</a>
+                    <a href="https://freeresumehub.com/about/" class="text-gray-600 hover:text-blue-600 font-medium">About</a>
+                    <a href="https://freeresumehub.com/blog-page/" class="text-gray-600 hover:text-blue-600 font-medium">Blog</a>
+                    <a href="https://freeresumehub.com/resume-templates-finder/" class="bg-blue-600 text-white px-4 py-2 rounded-md font-medium hover:bg-blue-700 transition">Get Started</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <header class="gradient-bg text-white pt-20 pb-24">
+        <div class="max-w-4xl mx-auto px-4 text-center">
+            <span class="bg-blue-800 bg-opacity-30 text-blue-100 py-1 px-3 rounded-full text-sm font-semibold mb-6 inline-block">
+                No paywalls. No watermarks.
+            </span>
+            <h1 class="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                Free, ATS-friendly resume builder for real job seekers.
+            </h1>
+            <p class="text-xl md:text-2xl text-blue-100 mb-10 max-w-2xl mx-auto font-light">
+                Create clean, professional resumes that recruiters love. No "Upgrade to download" surprises.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="https://freeresumehub.com/resume-templates-finder/" class="bg-white text-blue-700 px-8 py-4 rounded-lg font-bold text-lg shadow-lg hover:shadow-xl hover:bg-gray-100 transition flex items-center justify-center gap-2">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i> Build My Resume
+                </a>
+                <a href="https://freeresumehub.com/about/" class="border border-white text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-white hover:text-blue-700 transition">
+                    Learn More
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <section class="py-16 -mt-10">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="bg-white p-8 rounded-xl shadow-md hover:shadow-lg transition transform hover:-translate-y-1">
+                    <div class="w-12 h-12 bg-green-100 text-green-600 rounded-lg flex items-center justify-center text-2xl mb-4">
+                        <i class="fa-solid fa-check"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-2">Free by default</h3>
+                    <p class="text-gray-600">The core resume builder is free to use and free to download. No tricks.</p>
+                </div>
+                <div class="bg-white p-8 rounded-xl shadow-md hover:shadow-lg transition transform hover:-translate-y-1">
+                    <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4">
+                        <i class="fa-solid fa-robot"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-2">ATS first</h3>
+                    <p class="text-gray-600">Standard fonts, clear headings, and clean markup so Applicant Tracking Systems can actually read your resume.</p>
+                </div>
+                <div class="bg-white p-8 rounded-xl shadow-md hover:shadow-lg transition transform hover:-translate-y-1">
+                    <div class="w-12 h-12 bg-purple-100 text-purple-600 rounded-lg flex items-center justify-center text-2xl mb-4">
+                        <i class="fa-solid fa-user-group"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-2">Human-friendly</h3>
+                    <p class="text-gray-600">Gentle prompts and examples that help you write better bullet points and highlight real impact.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-16 bg-gray-100">
+        <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-2 gap-12">
+            
+            <div>
+                <h2 class="text-2xl font-bold mb-6 text-gray-900">Essential Resources</h2>
+                <div class="space-y-4">
+                    <a href="https://freeresumehub.com/cover-letters/" class="block bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition flex justify-between items-center group">
+                        <span class="font-medium text-gray-700 group-hover:text-blue-600"><i class="fa-regular fa-envelope mr-2"></i> Cover Letter Guides</span>
+                        <i class="fa-solid fa-chevron-right text-gray-400"></i>
+                    </a>
+                    <a href="https://freeresumehub.com/blog-page/" class="block bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition flex justify-between items-center group">
+                        <span class="font-medium text-gray-700 group-hover:text-blue-600"><i class="fa-solid fa-pen-nib mr-2"></i> Articles & Tutorials</span>
+                        <i class="fa-solid fa-chevron-right text-gray-400"></i>
+                    </a>
+                    <a href="https://freeresumehub.com/faq-page/" class="block bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition flex justify-between items-center group">
+                        <span class="font-medium text-gray-700 group-hover:text-blue-600"><i class="fa-solid fa-circle-question mr-2"></i> Help & Common Questions</span>
+                        <i class="fa-solid fa-chevron-right text-gray-400"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div>
+                <h2 class="text-2xl font-bold mb-6 text-gray-900">Meet the Team</h2>
+                <div class="bg-white rounded-lg shadow-sm p-6">
+                    <ul class="divide-y divide-gray-100">
+                        <li class="py-4 flex items-center group">
+                            <a href="https://freeresumehub.com/team-members/emily-carter/" class="flex-shrink-0">
+                                <img src="https://freeresumehub.com/wp-content/uploads/2025/09/emily-carter-avatar.webp" alt="Emily Carter" class="w-14 h-14 rounded-full object-cover mr-4 border-2 border-transparent group-hover:border-blue-600 transition">
+                            </a>
+                            <div>
+                                <a href="https://freeresumehub.com/team-members/emily-carter/" class="text-sm font-bold text-gray-900 hover:text-blue-600 transition block">Emily Carter</a>
+                                <p class="text-xs text-gray-500">Content & Resume Strategy</p>
+                            </div>
+                        </li>
+                        
+                        <li class="py-4 flex items-center group">
+                            <a href="https://freeresumehub.com/team-members/daniel-nguyen/" class="flex-shrink-0">
+                                <img src="https://freeresumehub.com/wp-content/uploads/2025/09/daniel-nguyen-avatar.webp" alt="Daniel Nguyen" class="w-14 h-14 rounded-full object-cover mr-4 border-2 border-transparent group-hover:border-blue-600 transition">
+                            </a>
+                            <div>
+                                <a href="https://freeresumehub.com/team-members/daniel-nguyen/" class="text-sm font-bold text-gray-900 hover:text-blue-600 transition block">Daniel Nguyen</a>
+                                <p class="text-xs text-gray-500">Product & UX</p>
+                            </div>
+                        </li>
+
+                        <li class="py-4 flex items-center group">
+                            <a href="https://freeresumehub.com/team-members/sophia-lee/" class="flex-shrink-0">
+                                <img src="https://freeresumehub.com/wp-content/uploads/2025/09/sophia-lee-avatar.webp" alt="Sophia Lee" class="w-14 h-14 rounded-full object-cover mr-4 border-2 border-transparent group-hover:border-blue-600 transition">
+                            </a>
+                            <div>
+                                <a href="https://freeresumehub.com/team-members/sophia-lee/" class="text-sm font-bold text-gray-900 hover:text-blue-600 transition block">Sophia Lee</a>
+                                <p class="text-xs text-gray-500">Career Content & Research</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="mt-4 text-right">
+                        <a href="https://freeresumehub.com/team-members/" class="text-sm text-blue-600 font-medium hover:underline">View full team &rarr;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-gray-900 text-gray-400 py-12 mt-auto">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="flex flex-col md:flex-row justify-between items-center mb-8">
+                <div class="mb-4 md:mb-0">
+                    <span class="text-white text-xl font-bold">FreeResumeHub</span>
+                    <p class="text-sm mt-1">Built for people who are tired of fighting paywalls.</p>
+                </div>
+                <div class="flex space-x-6">
+                    <a href="https://x.com/freeresumehub" class="hover:text-white transition"><i class="fa-brands fa-twitter text-xl"></i></a>
+                    <a href="https://www.linkedin.com/company/freeresumehub/" class="hover:text-white transition"><i class="fa-brands fa-linkedin text-xl"></i></a>
+                    <a href="https://medium.com/@freeresumehub" class="hover:text-white transition"><i class="fa-brands fa-medium text-xl"></i></a>
+                    <a href="https://www.pinterest.com/freeresumehub/" class="hover:text-white transition"><i class="fa-brands fa-pinterest text-xl"></i></a>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between text-sm">
+                <div class="flex flex-wrap gap-4 mb-4 md:mb-0">
+                    <a href="https://freeresumehub.com/terms-of-service/" class="hover:text-white">Terms</a>
+                    <a href="https://freeresumehub.com/privacy-policy/" class="hover:text-white">Privacy</a>
+                    <a href="https://freeresumehub.com/cookie-policy/" class="hover:text-white">Cookies</a>
+                    <a href="https://freeresumehub.com/disclaimer/" class="hover:text-white">Disclaimer</a>
+                </div>
+                <p>&copy; 2025 FreeResumeHub. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
