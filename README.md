@@ -20,7 +20,7 @@
 
 Whether you’re a student, career switcher, or experienced professional, FreeResumeHub gives you a solid resume in minutes — without needing a credit card or design skills.
 
-👉 **Try it live:** [freeresumehub.com/resume-templates-finder](https://freeresumehub.com/resume-templates-finder/)
+👉 **Try it live:** [Resume templates & builder](https://freeresumehub.com/resume-templates-finder/)
 
 ---
 
@@ -37,36 +37,27 @@ We design everything around three simple rules:
 ## 📄 Key pages
 
 - 🧾 **Resume builder & templates:**  
-  [https://freeresumehub.com/resume-templates-finder/](https://freeresumehub.com/resume-templates-finder/)
+  [Explore the Resume Templates Finder](https://freeresumehub.com/resume-templates-finder/)
 
-- ℹ️ **About:**  
-  [https://freeresumehub.com/about/](https://freeresumehub.com/about/)
+- ℹ️ **About FreeResumeHub:**  
+  [Read the About page](https://freeresumehub.com/about/)
 
-- ❓ **FAQ:**  
-  [https://freeresumehub.com/faq-page/](https://freeresumehub.com/faq-page/)
+- ❓ **Help & common questions:**  
+  [View the FAQ](https://freeresumehub.com/faq-page/)
 
-- ✉️ **Cover letters:**  
-  [https://freeresumehub.com/cover-letters/](https://freeresumehub.com/cover-letters/)
+- ✉️ **Cover letter resources:**  
+  [Browse cover letter guides](https://freeresumehub.com/cover-letters/)
 
-- 📝 **Blog:**  
-  [https://freeresumehub.com/blog-page/](https://freeresumehub.com/blog-page/)
+- 📝 **Articles & tutorials:**  
+  [Visit the blog](https://freeresumehub.com/blog-page/)
 
 Transparency & policies:
 
-- 📜 **Terms of Service:**  
-  [https://freeresumehub.com/terms-of-service/](https://freeresumehub.com/terms-of-service/)
-
-- 🔐 **Privacy Policy:**  
-  [https://freeresumehub.com/privacy-policy/](https://freeresumehub.com/privacy-policy/)
-
-- 🍪 **Cookie Policy:**  
-  [https://freeresumehub.com/cookie-policy/](https://freeresumehub.com/cookie-policy/)
-
-- ⚠️ **Disclaimer:**  
-  [https://freeresumehub.com/disclaimer/](https://freeresumehub.com/disclaimer/)
-
-- 🔍 **Review Methodology:**  
-  [https://freeresumehub.com/review-methodology/](https://freeresumehub.com/review-methodology/)
+- 📜 [Terms of Service](https://freeresumehub.com/terms-of-service/)  
+- 🔐 [Privacy Policy](https://freeresumehub.com/privacy-policy/)  
+- 🍪 [Cookie Policy](https://freeresumehub.com/cookie-policy/)  
+- ⚠️ [Disclaimer](https://freeresumehub.com/disclaimer/)  
+- 🔍 [Review Methodology](https://freeresumehub.com/review-methodology/)  
 
 ---
 
@@ -75,16 +66,15 @@ Transparency & policies:
 FreeResumeHub is built and maintained by a small, content-driven team:
 
 - 👩‍💼 **Emily Carter – Content & Resume Strategy**  
-  [https://freeresumehub.com/team-members/emily-carter/](https://freeresumehub.com/team-members/emily-carter/)
+  [View Emily’s profile](https://freeresumehub.com/team-members/emily-carter/)
 
 - 👨‍💻 **Daniel Nguyen – Product & UX**  
-  [https://freeresumehub.com/team-members/daniel-nguyen/](https://freeresumehub.com/team-members/daniel-nguyen/)
+  [View Daniel’s profile](https://freeresumehub.com/team-members/daniel-nguyen/)
 
 - 📚 **Sophia Lee – Career Content & Research**  
-  [https://freeresumehub.com/team-members/sophia-lee/](https://freeresumehub.com/team-members/sophia-lee/)
+  [View Sophia’s profile](https://freeresumehub.com/team-members/sophia-lee/)
 
-👉 Full team list:  
-[https://freeresumehub.com/team-members/](https://freeresumehub.com/team-members/)
+👉 See the full team: [All team members](https://freeresumehub.com/team-members/)
 
 ---
 
@@ -92,20 +82,11 @@ FreeResumeHub is built and maintained by a small, content-driven team:
 
 Stay up to date with new templates, resume guides, and product updates:
 
-- 🐦 **X (Twitter):**  
-  [https://x.com/freeresumehub](https://x.com/freeresumehub)
-
-- 💼 **LinkedIn:**  
-  [https://www.linkedin.com/company/freeresumehub/](https://www.linkedin.com/company/freeresumehub/)
-
-- ✍️ **Medium:**  
-  [https://medium.com/@freeresumehub](https://medium.com/@freeresumehub)
-
-- 📌 **Pinterest:**  
-  [https://www.pinterest.com/freeresumehub/](https://www.pinterest.com/freeresumehub/)
-
-- 📬 **Contact:**  
-  [https://freeresumehub.com/contact-us/](https://freeresumehub.com/contact-us/)
+- 🐦 **X (Twitter):** [@freeresumehub](https://x.com/freeresumehub)  
+- 💼 **LinkedIn Company Page:** [FreeResumeHub on LinkedIn](https://www.linkedin.com/company/freeresumehub/)  
+- ✍️ **Medium publication:** [FreeResumeHub on Medium](https://medium.com/@freeresumehub)  
+- 📌 **Pinterest boards:** [FreeResumeHub on Pinterest](https://www.pinterest.com/freeresumehub/)  
+- 📬 **Contact form:** [Get in touch](https://freeresumehub.com/contact-us/)  
 
 ---
 
